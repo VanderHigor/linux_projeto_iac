@@ -1,2 +1,2 @@
-# linux_projeto_iac
+# Projetos Linux
 Repositório para projetos do curso de Linux
